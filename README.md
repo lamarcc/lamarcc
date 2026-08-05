@@ -26,15 +26,6 @@ I like understanding how software works from low-level C programs to higher-leve
 
 ---
 
-## Projects
-
-📚 **libft** — Custom C standard library  
-🖨️ **ft_printf** — Reimplementation of printf in C  
-📖 **get_next_line** — Line-by-line file reader  
-🧵 **codexion** — Multithreading and synchronization  
-
----
-
 ## Tech
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
