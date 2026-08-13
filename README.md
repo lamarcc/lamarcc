@@ -32,9 +32,3 @@ I like understanding how software works from low-level C programs to higher-leve
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-
----
-
-## Philosophy
-
-Understand the system first. Everything else follows.
