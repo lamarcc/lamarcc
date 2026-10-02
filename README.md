@@ -10,7 +10,7 @@
 
 # césar
 
-42 Lyon student focused on systems programming, software fundamentals, and applied AI.
+42 student focused on systems programming, software fundamentals, and applied AI.
 
 I like understanding how software works from low-level C programs to higher-level systems involving Python and language models.
 
